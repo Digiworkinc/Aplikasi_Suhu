@@ -2,6 +2,7 @@
 
 Sebuah aplikasi web berbasis Vanilla JavaScript yang memungkinkan pengguna untuk mencari dan melihat informasi cuaca secara real-time di kota-kota seluruh dunia. Aplikasi ini menggunakan Open-Meteo API yang gratis dan tidak memerlukan API Key.
 
+
 ✨ Fitur Utama
 
 Pencarian Lokasi: Cari kondisi cuaca di kota mana saja di seluruh dunia.
@@ -14,6 +15,7 @@ Desain Modern: Menggunakan gaya Glassmorphism (semi-transparan) dengan animasi t
 
 State Management Sederhana: Dilengkapi dengan loading skeleton (efek memuat) dan penanganan pesan error jika kota tidak ditemukan.
 
+
 🛠️ Teknologi yang Digunakan
 
 HTML5 & Vanilla JavaScript (Tanpa framework)
@@ -23,6 +25,7 @@ Tailwind CSS (via CDN untuk styling yang cepat dan responsif)
 Lucide Icons (Untuk ikon vektor berbasis SVG)
 
 Open-Meteo API (Geocoding API & Weather Forecast API)
+
 
 🚀 Cara Menjalankan Secara Lokal
 
@@ -38,6 +41,7 @@ Buka folder proyek tersebut.
 Klik dua kali pada file index.html untuk membukanya langsung di browser internet Anda.
 
 (Catatan: Pastikan komputer Anda terhubung ke internet karena aplikasi ini mengambil styling Tailwind dan data cuaca dari luar).
+
 
 📂 Struktur Direktori
 
